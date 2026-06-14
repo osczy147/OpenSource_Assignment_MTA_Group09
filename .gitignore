@@ -1,0 +1,14 @@
+# Uploaded user files (don't commit real user uploads)
+uploads/*
+!uploads/.gitkeep
+
+# Environment/config overrides
+config.local.php
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
