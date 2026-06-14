@@ -151,7 +151,7 @@ git push -u origin main
 
 ## GitHub Repository
 
-🔗 [https://github.com/[YourUsername]/OpenSource_Assignment_MTA_Group[N]](https://github.com/)
+🔗 [https://github.com/[osczy147]/OpenSource_Assignment_MTA_Group09](https://github.com/)
 
 ---
 
