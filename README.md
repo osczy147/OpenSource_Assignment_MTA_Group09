@@ -142,7 +142,7 @@ git checkout main
 git merge development
 
 # Push to GitHub
-git remote add origin https://github.com/[YourUsername]/OpenSource_Assignment_MTA_Group[N].git
+git remote add origin https://github.com/[osczy147]/OpenSource_Assignment_MTA_Group[09].git
 git branch -M main
 git push -u origin main
 ```
@@ -151,7 +151,7 @@ git push -u origin main
 
 ## GitHub Repository
 
-🔗 [https://github.com/[osczy147]/OpenSource_Assignment_MTA_Group09](https://github.com/)
+🔗 [https://github.com/[osczy147]/OpenSource_Assignment_MTA_Group09.git](https://github.com/)
 
 ---
 
