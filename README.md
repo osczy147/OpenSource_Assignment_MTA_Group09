@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ArtVault — Digital Portfolio Management System
 
 **Course:** CP 222 — Open Source Technologies  
@@ -180,4 +179,3 @@ git push -u origin main
 This project was developed as an academic assignment for CP 222 — Open Source Technologies.
 =======
 # OpenSource_Assignment_MTA_Group09
->>>>>>> 045ce4cebd52e1677d4bdf4a3af2ecaf52642088
