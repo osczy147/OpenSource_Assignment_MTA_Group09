@@ -82,7 +82,7 @@ portfolio_system/
 2. **Move to your web server root**
    ```bash
    # For XAMPP on Windows
-   move portfolio_system C:\xampp\htdocs\
+   move PortfolioSystem D:\Programs\Xampp\htdocs
    ```
 
 3. **Run the installer**
