@@ -171,6 +171,7 @@ git push -u origin main
 | 4 | [EDWIN NOLBERT]      |  [T24-03-25367]     | Developer |
 | 5 | [OSCAR MERTUS]       |  [T24-03-17531]     | Designer  |
 | 6 | [LUCAS GIDEON]       |  [T24-03-22921]     | Designer  |
+| 7 | [INVOCAVIT AKYOO]    |  [T24-03-24079]     | Designer  |
 
 ---
 
